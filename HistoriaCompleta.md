@@ -17,6 +17,7 @@
 #A História:
 
 Era uma manhã ensolarada quando Klaus Kanban e Sam Scrum foram chamados para resolver um bug terrível que havia travado o sistema da empresa de Carlos Café. O bug, conhecido por "Aquele-Que-Nunca-É-Resolvido", já estava assombrando o time há semanas.
+!(1.png)
 
 Na sala de reunião, Carlos aparece com a cara de sempre — meio confuso, meio ansioso — e abre a conversa com sua clássica introdução:
 
